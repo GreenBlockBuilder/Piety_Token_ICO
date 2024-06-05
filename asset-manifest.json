@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f9a2a34.css",
-    "main.js": "/static/js/main.2ae49eff.js",
-    "static/js/453.ed5f62f8.chunk.js": "/static/js/453.ed5f62f8.chunk.js",
+    "main.css": "/static/css/main.44f0212c.css",
+    "main.js": "/static/js/main.bad2d90d.js",
+    "static/js/453.c42026e7.chunk.js": "/static/js/453.c42026e7.chunk.js",
     "static/media/intro.mp4": "/static/media/intro.bd4d93448a7ae6f3a6f7.mp4",
     "static/media/ic-coins.png": "/static/media/ic-coins.4859fd14033319d77e1d.png",
     "static/media/pre-coin.png": "/static/media/pre-coin.8dd52064728414abed3e.png",
@@ -10,6 +10,8 @@
     "static/media/img_partner_10.png": "/static/media/img_partner_10.bfe79469bd80c0a7f658.png",
     "static/media/img_partner_7.png": "/static/media/img_partner_7.2f243b4b7a3217a610af.png",
     "static/media/img_partner_2.png": "/static/media/img_partner_2.eda9fbbf539f7874493d.png",
+    "static/media/ic_community.png": "/static/media/ic_community.e9e244e2bf2ed5b0c176.png",
+    "static/media/ic_asset_backed.png": "/static/media/ic_asset_backed.29a94ab8344a78046cc4.png",
     "static/media/img_partner_6.png": "/static/media/img_partner_6.905771ca36dd0cc3720b.png",
     "static/media/img_partner_3.png": "/static/media/img_partner_3.c407d0acb6740953d070.png",
     "static/media/img_partner_5.png": "/static/media/img_partner_5.d3c349ac2a79766e0194.png",
@@ -17,21 +19,27 @@
     "static/media/img_partner_9.png": "/static/media/img_partner_9.9f7e9d4ad8e587f59091.png",
     "static/media/img-bg.png": "/static/media/img-bg.fedf0fe7707053b20383.png",
     "static/media/img_partner_8.jpg": "/static/media/img_partner_8.a9591b6867a788c0550d.jpg",
+    "static/media/ic_growth.png": "/static/media/ic_growth.6e286963731077b345da.png",
     "static/media/how-to-buy.png": "/static/media/how-to-buy.01929949e3264573044e.png",
     "static/media/img_partner_1.jpg": "/static/media/img_partner_1.66d0ea1f40a0b3208d6c.jpg",
+    "static/media/Michael.jpg": "/static/media/Michael.e1138b6bde4c32f49d03.jpg",
+    "static/media/Tyler.jpg": "/static/media/Tyler.467cc48683bdb33d4671.jpg",
+    "static/media/Kyle.jpg": "/static/media/Kyle.5c143a0a0b50ae081f5a.jpg",
+    "static/media/Dylan.jpg": "/static/media/Dylan.f3bd6281c7a6d22708ff.jpg",
+    "static/media/Michele.jpg": "/static/media/Michele.b9f8fa4ec565494a41cb.jpg",
+    "index.html": "/index.html",
     "static/media/wallet.svg": "/static/media/wallet.cc9fdeb203d00ae6b047670cacc4cd5d.svg",
     "static/media/matic.svg": "/static/media/matic.5d1c4caaa077fa9f7518542f61851ea8.svg",
     "static/media/usdc.svg": "/static/media/usdc.e6293c439938a4efa570e53f82e822d1.svg",
-    "index.html": "/index.html",
     "static/media/usdt.svg": "/static/media/usdt.6dc09781df56f4a369623b3cb8349479.svg",
     "static/media/fold.svg": "/static/media/fold.a1457d095424f91c0d8250042199009d.svg",
     "static/media/spread.svg": "/static/media/spread.0eeef063701b7dd94307bc76d6529628.svg",
-    "main.1f9a2a34.css.map": "/static/css/main.1f9a2a34.css.map",
-    "main.2ae49eff.js.map": "/static/js/main.2ae49eff.js.map",
-    "453.ed5f62f8.chunk.js.map": "/static/js/453.ed5f62f8.chunk.js.map"
+    "main.44f0212c.css.map": "/static/css/main.44f0212c.css.map",
+    "main.bad2d90d.js.map": "/static/js/main.bad2d90d.js.map",
+    "453.c42026e7.chunk.js.map": "/static/js/453.c42026e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f9a2a34.css",
-    "static/js/main.2ae49eff.js"
+    "static/css/main.44f0212c.css",
+    "static/js/main.bad2d90d.js"
   ]
 }
